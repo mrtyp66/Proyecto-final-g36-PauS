@@ -1,0 +1,115 @@
+.bg-color {
+    background-color: #004aad;
+}
+
+.landingContenido {
+    display: flex;
+    column-gap: 4px;
+    justify-content: space-around;
+    margin: 10px 0px 10px 0;
+    column-gap: 10px;
+}
+
+.box-1 {
+    width: 800px;
+    height: 600px;
+    background-color: #687782;
+    padding: 20px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: space-evenly;
+    
+} 
+
+
+.box1Style {
+    font-family: 'Jost', sans-serif;
+    font-weight: 300;
+    font-size: 26px;
+    color: antiquewhite;
+    align-items: center;
+
+}
+
+.box-2 {
+    width: 800px;
+    height: 600px;
+    background-color: #687782;;
+    padding: 20px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-family: 'Jost', sans-serif;
+    font-weight: 300;
+    font-size: 26px;
+    color: antiquewhite;
+}
+
+
+.parrafo-footer {
+    font-family: 'Jost', sans-serif;
+    font-size: 28px;
+    font-weight: 300;
+    color: beige;
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+
+.bgColor-footer {
+    background-color: #004aad;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.divAvatar {
+    margin: 10px;
+}
+.imgs {
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+
+
+
+
+/* portafolio style start*/ 
+.portfolio-titulo {
+    font-family: 'Jost', sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 12px;
+}
+
+.portfolio-parrafo {
+    font-family: 'Jost', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.portafolioContenedor {
+    background-color: rgba(78, 164, 198, 0.685);
+}
+
+.footer_portafolio {
+    font-family: 'Jost', sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    text-align: center;
+    background-color:  rgba(78, 164, 198, 0.685);
+    height: 150px;
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+}
+/* portafolio style end*/
+
