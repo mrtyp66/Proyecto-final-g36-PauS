@@ -48,14 +48,27 @@
     color: antiquewhite;
 }
 
+.box-3 {
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-color: rgb(147, 92, 203);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 
+}
+.pHabilidades {
+    font-family: 'Jost', sans-serif;
+    font-weight: 300;
+    font-size: 26px;
+    color: antiquewhite;
+}
 .parrafo-footer {
     font-family: 'Jost', sans-serif;
     font-size: 28px;
     font-weight: 300;
     color: beige;
-    box-sizing: border-box;
-    text-align: center;
     
 }
 
